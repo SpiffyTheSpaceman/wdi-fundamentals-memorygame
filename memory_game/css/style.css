@@ -94,3 +94,20 @@ footer p {
   color: #F15B31;
   font-weight: 700;
 }
+
+.reset {
+  margin-top: 50px;
+  font-size: 20px;
+  padding: 15px 25px;
+  background-color: #00A6B3;
+  font-family: "Raleway", sans-serif;
+  font-weight: 600;
+  color: #FFFFFF;
+  letter-spacing: 1px;
+  border: none;
+  border-radius: 1000px;
+}
+
+.reset:hover {
+  cursor: pointer;
+}
